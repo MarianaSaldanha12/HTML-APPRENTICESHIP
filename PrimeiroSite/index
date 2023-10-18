@@ -1,0 +1,14 @@
+<HTML>
+ <HEAD>
+  <TITLE>EXERCÍCIO 1</TITLE>
+ </HEAD>
+
+<BODY>
+ <P>Esta é a primeira vez que digito um documento HTML para cirar uma página web.</P>
+ <P>Nome:digiite seu nome<BR>
+    Nasc: digite sua data de nascimento<BR>
+    End: digite seu endereço</P>
+ <P>Muito legal!</P>
+</BODY>
+
+</HTML>
